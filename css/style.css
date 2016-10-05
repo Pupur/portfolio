@@ -1,0 +1,7 @@
+/*HEADER*/
+/*BANNER*/
+.jumbotron {
+  height: 444px;
+  width: 100%;
+  background: #CCE8F4 url("../img/pic01.jpg") no-repeat center;
+  background-size: 1200px 444px; }
